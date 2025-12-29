@@ -1,0 +1,8 @@
+{
+  "name": "chanel",
+  "description": "A high-end, minimalist AI service platform for product marketing, customer service, and business automation, inspired by luxury fashion aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
